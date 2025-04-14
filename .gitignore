@@ -1,0 +1,33 @@
+# 🧠 AI-Powered Resume Analyzer
+
+An intelligent web app that analyzes resumes using Google Gemini AI and provides personalized suggestions, skill gap analysis, job readiness score, and course recommendations. Built with Streamlit, this tool helps job seekers fine-tune their resumes and stand out in the competitive tech industry.
+
+## 🚀 Features
+
+- 📄 Upload any resume in PDF format
+- 🧠 Analyze resume using Google Gemini 1.5 Pro
+- 📌 Optional: Compare with a job description
+- 📊 Visualize skill match (Resume vs Job Description)
+- 💡 Get strengths, weaknesses, and missing skills
+- 🎓 Receive course recommendations to fill skill gaps
+- 💼 Suggested job titles based on your profile
+
+---
+
+## 🖼️ Demo
+
+> Coming Soon – or add a gif/screenshot of the app in use
+
+---
+
+## 🧰 Tech Stack
+
+| Layer       | Technologies                                 |
+|-------------|----------------------------------------------|
+| Frontend    | Streamlit                                    |
+| Backend     | Python, Google Gemini API (Generative AI)    |
+| Parsing     | pdfplumber, pytesseract, pdf2image           |
+| Visualization | Plotly                                      |
+| Env Management | python-dotenv                              |
+
+---
